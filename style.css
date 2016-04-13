@@ -1,0 +1,79 @@
+#wrapper {
+  border: medium none;
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 960px;
+}
+h3
+{
+  color: #234465;
+}
+#content_container {
+  background: #eeeeee none repeat scroll 0 0;
+  padding: 30px;
+}
+.sections
+{
+	width:100%;
+	display:block;
+}
+span
+{
+  color: #A88597;
+}
+.section
+{
+	float:left;
+  min-height: 270px;
+  margin: 20px 0;
+	width:48%;
+}
+.right_section {
+  background: #234465 none repeat scroll 0 0;
+  margin: 15px 0;
+  padding: 0 2%;
+}
+.right_section h3
+{
+  color: #FFFFFF;
+}
+input {
+  border: 1px solid #adadad;
+  display: inline-block;
+  float: right;
+  margin: 10px 25% 10px 0;
+  padding: 5px;
+  width: 71%;
+}
+.clearfix
+{
+	clear:both;
+}
+
+.btn {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  width: 125px;
+}
+#register
+{
+  color: #234465;
+  border:2px solid #234465;
+}
+#login
+{
+  border:2px solid #FFA500;
+  color:#FFFFFF;
+}
+#checkList {
+  float: left;
+  margin: 0 5px;
+  width: 10px;
+}
+a {
+  clear: both;
+  color: #fff;
+  float: right;
+  font-size: 12px;
+  margin: 0 25% 10px 0;
+}
